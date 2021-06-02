@@ -1,2 +1,0 @@
-# servelet
- jdbc and jsp
